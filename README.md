@@ -15,3 +15,5 @@ Hi there! I'm a passionate Full Stack Developer with expertise in building robus
 
 
 Other master peaces on my other github profile : ![Github v2](https://github.com/abdulaziz-backend)
+
+🌱 My status for now! ![status](https://git-wrapped.com/profiles/abdulaziz-python)
