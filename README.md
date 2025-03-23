@@ -1,19 +1,62 @@
 ![Mainimage](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-[![Visitors](https://camo.githubusercontent.com/a17107d3651ad5724767eb06ea5a5d78a0f57853090ad5d7278fd0f57e1b8673/68747470733a2f2f6170692e76697369746f7262616467652e696f2f6170692f76697369746f72733f706174683d68747470732533412532462532466769746875622e636f6d253246416e6d6f6c2d426172616e77616c253246416e6d6f6c2d426172616e77616c266c6162656c3d56495349544f5253266c6162656c436f6c6f723d25323330303026636f756e74436f6c6f723d253233304130323039)](https://abdulaziz-coder.vercel.app/)
+# Hi there, I'm Abdulaziz! 👋
 
-![pac](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-## SKILLS:
-![js](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif) ![PY](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) ![PY](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif) ![PY](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+Welcome to my GitHub profile! I'm a passionate developer with over 2 years of experience in building web and AI applications. Here's a bit more about me:
 
-![run](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
-# 🌟 About Me
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code gif" align="right" width="400" height="300" />
 
-Hi there! I'm a passionate Full Stack Developer with expertise in building robust, scalable, and user-centric web and bot applications. I thrive on creating solutions that blend elegant frontend designs with powerful backend architectures.
+## 🛠 Tech Stack
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-FFD700?style=for-the-badge&logo=telegram&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+## 💼 Experience
 
-Other master peaces on my other github profile : ![Github v2](https://github.com/abdulaziz-backend)
+- **2+ years** of professional experience in software development.
+- Extensive expertise in backend development with **Django** and **Flask**.
+- Proficient in building RESTful APIs using **Django REST Framework**.
+- Skilled in frontend development with **React** and **Next.js**.
+- Experienced in using message brokers like **RabbitMQ**.
+- Working knowledge of AI and Machine Learning using **TensorFlow**.
 
-🌱 My status for now!(https://git-wrapped.com/profiles/abdulaziz-python)
+## 🌐 Portfolio
+
+Check out my portfolio at [abdulaziz.org.uz](https://abdulaziz.org.uz) to see some of my projects and learn more about me.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulaziz-python&show_icons=true&theme=radical" alt="Abdulaziz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz-python&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaziz-python&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulaziz-python&theme=radical" alt="GitHub Trophies" />
+</div>
+
+## ✨ Animations
+
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" alt="code gif" />
+</p>
+
+## 📬 Contact
+
+Feel free to reach out if you have any questions or want to collaborate on a project!
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ablaze_coder)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ablaze.coder@proton.me)
+
+---
+
+Thank you for visiting my profile!
