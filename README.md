@@ -1,5 +1,4 @@
-![Mainimage](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
+![Main Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 # Hi there, I'm Abdulaziz! 👋
 
@@ -43,12 +42,6 @@ Check out my portfolio at [abdulaziz.org.uz](https://abdulaziz.org.uz) to see so
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaziz-python&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=abdulaziz-python&theme=radical" alt="GitHub Trophies" />
 </div>
-
-## ✨ Animations
-
-<p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" alt="code gif" />
-</p>
 
 ## 📬 Contact
 
